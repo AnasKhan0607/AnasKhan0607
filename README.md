@@ -61,7 +61,7 @@
 
 ###
 
-<img align="right" height="150" margin-right="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="150" margin-right="500" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 
 ###
