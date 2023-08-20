@@ -61,12 +61,12 @@
 
 ###
 
-<img align="right" height="150" margin-right="200px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="150" style="margin-right: 150px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 
 ###
 
-<div align="left" margin-left="200px">
+<div align="left" style="margin-right: 150px;">
   <div align="left">
   <a href="masterquagsire@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
