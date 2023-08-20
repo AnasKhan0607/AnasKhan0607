@@ -61,29 +61,31 @@
 
 ###
 
-<img align="right" height="150" style="margin-right: 150px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-
 ###
-
-<div align="left" style="margin-right: 150px;">
-  <div align="left">
-  <a href="masterquagsire@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  </div>
-  <div align="left">
-  <a href="www.linkedin.com/in/anas-k" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  </div>
-  <div align="left">
-  <a href="!!#2482" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  </div>
+<div align="center">
+  
 </div>
 
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img height="200" width="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
+    </td>
+    <td align="center">
+      <a href="mailto:masterquagsire@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+      </a>
+      <br>
+      <a href="https://www.linkedin.com/in/anas-k" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+      </a>
+      <br>
+      <a href="!!#2482" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ###
