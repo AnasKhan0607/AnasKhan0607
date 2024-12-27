@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anas Khan and I am currently a 3rd year student at University of Toronto pursuing a double degree in Computer Science and CCIT. </h2>
+<h2 align="left">Hi 👋! My name is Anas Khan and I am currently a 5th year student at University of Toronto pursuing a double degree in Computer Science and CCIT. </h2>
 
 ###
 
