@@ -61,7 +61,7 @@ fun_fact: I code better after midnight ☕
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnasKhan0607&theme=github_dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnasKhan0607&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnasKhan0607&theme=github_dark&utcOffset=-5" height="165" />
 </div>
 
