@@ -46,12 +46,12 @@ fun_fact: I code better after midnight ☕
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasKhan0607&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnasKhan0607&show_icons=true&theme=cyberpunk" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasKhan0607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasKhan0607&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasKhan0607&theme=cyberpunk" />
 </div>
 
 ---
