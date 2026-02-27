@@ -46,12 +46,25 @@ fun_fact: I code better after midnight ☕
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasKhan0607&show_icons=true&theme=cyberpunk" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasKhan0607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasKhan0607&theme=github_dark" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasKhan0607&theme=cyberpunk" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnasKhan0607&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnasKhan0607&theme=github_dark&utcOffset=-5" height="165" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasKhan0607&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnasKhan0607&theme=darkhub&no-frame=true&row=1&column=7" />
 </div>
 
 ---
