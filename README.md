@@ -1,99 +1,85 @@
-<h2 align="left">Hi 👋! My name is Anas Khan and I am currently a 5th year student at University of Toronto pursuing a double degree in Computer Science and CCIT. </h2>
-
-<h2 align="left"> Im currently working on my startup Learning Mode AI‼️ Check it out @ https://learningmodeai.com</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasKhan0607&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasKhan0607&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-</div>
-
-###
-
-###
 <div align="center">
   
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Anas+Khan+%F0%9F%91%8B;Production+Engineer+%40+Clio;Building+cool+things+on+the+side;Based+in+Toronto+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" /></a>
+
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img height="200" width="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
-    </td>
-    <td align="center">
-      <a href="mailto:masterquagsire@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-      </a>
-      <br>
-      <a href="https://www.linkedin.com/in/anas-k" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-      </a>
-      <br>
-      <a href="!!#2482" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
+### 👨‍💻 About Me
 
-###
+```yaml
+name: Anas Khan
+location: Toronto, Canada
+current_role: Production Engineer @ Clio
+education: BSc Computer Science & CCIT @ University of Toronto
+interests: ["startups", "infrastructure", "building in public"]
+currently_building: side projects & exploring ideas
+fun_fact: I code better after midnight ☕
+```
 
-<br clear="both">
+---
 
+### 🛠️ Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=python,go,ts,java,bash" />
+</details>
+
+<details open>
+<summary><b>Infrastructure & Cloud</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible" />
+</details>
+
+<details open>
+<summary><b>Frameworks & Tools</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,graphql,redis,mysql,kafka,git" />
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnasKhan0607&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasKhan0607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasKhan0607&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+</div>
+
+---
+
+### 🤝 Connect
+
+<div align="center">
+  <a href="https://twitter.com/AnasKhan0607">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/anas-k">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anas.k2001@icloud.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
 <img src="https://raw.githubusercontent.com/AnasKhan0607/AnasKhan0607/output/snake.svg" alt="Snake animation" />
 
-###
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnasKhan0607&style=flat-square&color=6366F1" />
+</div>
