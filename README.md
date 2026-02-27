@@ -48,6 +48,7 @@ fun_fact: I code better after midnight ☕
   <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenClaw-FF6B6B?style=for-the-badge&logo=crab&logoColor=white" />
 </p>
 </details>
@@ -61,7 +62,7 @@ fun_fact: I code better after midnight ☕
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasKhan0607&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnasKhan0607&theme=github_dark" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnasKhan0607&theme=github_dark&utcOffset=-5" height="165" />
 </div>
 
@@ -71,7 +72,6 @@ fun_fact: I code better after midnight ☕
 </div>
 
 ---
-
 
 ### 🤝 Connect
 
