@@ -12,7 +12,7 @@
 ```yaml
 name: Anas Khan
 location: Toronto, Canada
-current_role: Production Engineer @ Clio
+current_role: Production Engineer 
 education: BSc Computer Science & CCIT @ University of Toronto
 interests: ["startups", "infrastructure", "building in public"]
 currently_building: side projects & exploring ideas
